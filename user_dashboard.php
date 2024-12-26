@@ -58,7 +58,7 @@
  <body class="bg-white-100">
   <div class="max-w-4xl mx-auto p-4">
    <div class="flex justify-between items-center mb-4">
-    <img alt="Company Logo" class="w-12-h-12" height="100" src="logo.png" width="200"/>
+    <img alt="Company Logo" class="w-12 h-12" height="50" src="https://storage.googleapis.com/a1aa/image/thD2nM46lPpVJldTVhh2rA8DLTw6p2Zsu8fFa6iJGapfetYnA.jpg" width="50"/>
     <div class="flex items-center space-x-4 text-sm text-gray-700">
      <span class="flex items-center space-x-1">
       <i class="fas fa-envelope"></i>
@@ -77,7 +77,7 @@
      All-In-One Wallet of ALLIANCE DIGITAL CORPORATE BANQUE LTD
     </h2>
     <br>
-    <!-- <a class="text-blue-600" href="#">Client Portal</a> -->
+    <a class="text-blue-600" href="#">Client Portal</a>
    </div>
    <div class="mb-8">
     <h2 class="text-xl font-bold text-gray-800 mb-4">Products &amp; Services</h2>
@@ -87,14 +87,14 @@
      <!-- <button class="bg-gray-400 text-white py-2 px-4 rounded">CRYPTO</button> -->
     </div>
    </div>
-   <!-- <div class="mb-8">
+   <div class="mb-8">
     <h2 class="text-xl font-bold text-gray-800 mb-4">Applications for Products &amp; Services</h2>
     <div class="grid grid-cols-2 gap-4">
-     <a href="account_activation.php" class="bg-red-600 text-white py-2 px-4 rounded inline-block">ACCOUNTS ACTIVATION</a> -->
+     <a href="account_activation.php" class="bg-red-600 text-white py-2 px-4 rounded inline-block">ACCOUNTS ACTIVATION</a>
      <!-- <button class="bg-red-600 text-white py-2 px-4 rounded">TRADE FINANCE</button> -->
-    <!-- </div> -->
+    </div>
     <!-- Dropdown for Trade Finance options -->
-    <!-- <div class="mt-4">
+    <div class="mt-4">
       <label for="trade-finance-service" class="block text-gray-800 font-bold">Please select a service</label>
       <select id="trade-finance-service" class="mt-2 w-full p-2 border border-gray-300 rounded" onchange="showButton()">
         <option>Please select a service</option>
@@ -104,15 +104,15 @@
         <option>Proof of Funds (POF)</option>
         <option>Warranty (AVAL)</option>
       </select>
-    </div> -->
+    </div>
     <!-- Button to start trade finance application -->
-    <!-- <div class="mt-4">
+    <div class="mt-4">
       <button id="trade-finance-button" class="bg-red-600 text-white py-2 px-4 rounded w-full" style="display:none;">
         START TRADE FINANCE APPLICATION NOW
       </button>
-    </div> -->
+    </div>
    </div>
-   <!-- <div class="text-gray-600 mb-8">Last Login at 2024-10-31</div> -->
+   <div class="text-gray-600 mb-8">Last Login at 2024-10-31</div>
    <footer class="bg-gray-800 text-white py-4">
     <div class="text-center text-sm">2024 Suisse Bank | Official website. All rights reserved.</div>
     <div class="flex justify-center space-x-4 mt-2 text-sm">

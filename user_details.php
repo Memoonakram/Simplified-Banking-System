@@ -652,9 +652,7 @@ button:hover {
       </main>
 
       <main id="tax" class="main-content">
-
-      <h1 class="page-title">Alliance Digital Banque</h1>
-        <head>
+  <head>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
     <script>
@@ -809,15 +807,14 @@ button:hover {
 
       <div class="container">
         <!-- Account Balance and Info Section -->
-        <div class="balance-section">
+        <!-- <div class="balance-section">
           <div class="balance-box">
             <h3>Account Balance</h3>
             <div class="balance">
               <span class="amount">0.00</span>
               <span class="currency">USD</span>
             </div>
-            <p><b>CREDIT LINE FACILITY</b> </p>
-            <!-- <button class="payment-btn">PAYMENT</button> -->
+            <button class="payment-btn">PAYMENT</button>
           </div>
 
           <div class="account-info">
@@ -850,7 +847,7 @@ button:hover {
               <p>23, 443, Business Bay, Dubai</p><br>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="mt-4">
           <label for="trade-finance-service" class="block text-gray-800 font-bold">Please select a service</label>
@@ -860,15 +857,25 @@ button:hover {
             <option>Standby Letter of Credit (SBLC)</option>
             <option>Documentary Letter of Credit (LC)</option>
             <option>Proof of Funds (POF)</option>
-            <!-- <option>Warranty (AVAL)</option> -->
+            <option>Warranty (AVAL)</option>
           </select><br>
           <div class="mt-4">
-            
-          <button id="trade-finance-button" class="bg-red-600 text-white py-1 px-4 rounded w-full" style="display:none;" >
+          <button id="trade-finance-button" class="bg-red-600 text-white py-1 px-4 rounded w-full" style="display:none;">
             START APPLICATION NOW
           </button>
         </div>
-      </main>
+
+        </div>
+
+
+
+
+        
+
+        <!-- Button to start trade finance application -->
+        
+          
+        </body>
       </main>
 
       <main id="account" class="main-content">
@@ -1035,8 +1042,7 @@ button:hover {
               <span class="amount">0.00</span>
               <span class="currency">USD</span>
             </div>
-            <p><b>CREDIT LINE FACILITY</b> </p>
-            <!-- <button class="payment-btn">PAYMENT</button> -->
+            <button class="payment-btn">PAYMENT</button>
           </div>
 
           <div class="account-info">
@@ -1079,7 +1085,7 @@ button:hover {
             <option>Standby Letter of Credit (SBLC)</option>
             <option>Documentary Letter of Credit (LC)</option>
             <option>Proof of Funds (POF)</option>
-            <!-- <option>Warranty (AVAL)</option> -->
+            <option>Warranty (AVAL)</option>
           </select><br>
           <div class="mt-4">
             
